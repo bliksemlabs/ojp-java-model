@@ -14,5 +14,5 @@ if [ -z $NETEX_VERSION ]; then
     exit 1
 fi
 
-XSD_FOLDER="./src/main/resources/xsd/${NETEX_VERSION}/"
+XSD_FOLDER="./src/main/resources/xsd/"
 find $XSD_FOLDER -name "*.xsd" -exec xmlstarlet  ed --inplace  -d "//xsd:annotation" {} \;
