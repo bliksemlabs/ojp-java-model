@@ -18,7 +18,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.vdv</groupId>
     <artifactId>ojp-java-model</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.3-SNAPSHOT</version>
 
     <name>ojp-java-model</name>
     <description>Generates Java model from OJP xsds using jaxb.</description>
@@ -45,7 +45,7 @@
     <scm>
         <connection>scm:git:ssh://git@github.com/bliksemlabs/ojp-java-model.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/bliksemlabs/ojp-java-model.git</developerConnection>
-        <url>https://github.com/entur/ojp-java-model/tree/master</url>
+        <url>https://github.com/bliksemlabs/ojp-java-model/tree/master</url>
         <tag>HEAD</tag>
     </scm>
 
