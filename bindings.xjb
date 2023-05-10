@@ -15,7 +15,7 @@
 
 	<!-- See the script bin/version_updater.sh It updates version in schema locations-->
 
-	<jxb:bindings schemaLocation="./src/main/resources/xsd/1.0.2/OJP.xsd">
+	<jxb:bindings schemaLocation="./src/main/resources/xsd/1.0.3/OJP.xsd">
 		<jxb:schemaBindings>
 			<jxb:package name="de.vdv.ojp.model" />
 		</jxb:schemaBindings>

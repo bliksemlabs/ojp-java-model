@@ -66,7 +66,7 @@
         <ojpRepoName>OJP</ojpRepoName>
         <ojpBranch>master</ojpBranch>
         <ojpGithubUrl>https://github.com/vdvde/${ojpRepoName}</ojpGithubUrl>
-        <ojpVersion>1.0.2</ojpVersion>
+        <ojpVersion>1.0.3</ojpVersion>
 
         <!-- JAXB components versions -->
         <jakarta-xml-bind.version>2.3.3</jakarta-xml-bind.version>
