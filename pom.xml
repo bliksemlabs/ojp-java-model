@@ -49,16 +49,6 @@
         <tag>HEAD</tag>
     </scm>
 
-    <!--
-    <distributionManagement>
-        <snapshotRepository>
-            <id>snapshots</id>
-            <name>entur2-snapshots</name>
-            <url>https://entur2.jfrog.io/entur2/libs-snapshot-local</url>
-        </snapshotRepository>
-    </distributionManagement>
-    -->
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jdk.version>1.8</jdk.version>
@@ -517,7 +507,7 @@
                     </plugin>
                 </plugins>
 
-		
+
             </build>
         </profile>
 
