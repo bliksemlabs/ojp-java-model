@@ -1,7 +1,7 @@
-<jxb:bindings xmlns:jxb="http://java.sun.com/xml/ns/jaxb"
+<jxb:bindings xmlns:jxb="https://jakarta.ee/xml/ns/jaxb"
               xmlns:xs="http://www.w3.org/2001/XMLSchema"
               xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-              xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc" jxb:version="2.0" jxb:extensionBindingPrefixes="xjc">
+              xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc" jxb:version="3.0" jxb:extensionBindingPrefixes="xjc">
     
 	<jxb:bindings>
 		<jxb:globalBindings underscoreBinding="asCharInWord">
